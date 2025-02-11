@@ -1,0 +1,65 @@
+.post {
+  padding: 10px 0px;
+  width: 800px;
+  background: white;
+  margin: auto;
+  font-family: "Roboto", sans-serif;
+}
+.header {
+  display: flex;
+  width: 100%;
+  height: 10%;
+  justify-content: space-between;
+}
+img {
+  width: 100%;
+}
+
+.header-left {
+  display: flex;
+  padding: 10px;
+}
+.header-right {
+  padding: 10px;
+  display: flex;
+}
+
+body {
+  background: black;
+  padding: 10px;
+}
+.icon-document {
+  margin: 10px;
+  font-size: 30px;
+}
+.puntitos {
+  padding: 10px;
+  font-size: 30px;
+}
+.texto {
+  padding: 10px;
+}
+.post-icons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5px;
+}
+.guardar {
+  margin-right: 10px;
+  font-size: 2em;
+  padding: 5px;
+}
+.left-icons {
+  margin-left: 3px;
+}
+.corazon,
+.comentario,
+.avion {
+  margin-right: 2px;
+  font-size: 2em;
+  padding: 5px;
+}
+.post-body {
+  padding: 10px;
+  font-size: 1em;
+}
